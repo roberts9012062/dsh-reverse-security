@@ -12,6 +12,7 @@
   <a href="#使用说明">使用说明</a> ·
   <a href="#技能清单">技能清单</a> ·
   <a href="#致谢">致谢</a> ·
+  <a href="#社区">社区</a> ·
   <a href="#许可证">许可证</a>
 </p>
 
@@ -134,6 +135,13 @@
 由衷感谢 reverse-skill 的作者 [@zhaoxuya520](https://github.com/zhaoxuya520) 及其社区贡献者，打造了这套优秀的逆向 / 渗透 / 安全技能路由体系，让 AI Agent 能在安全研究场景下「先路由、后动手」。本项目仅做了平台适配（移植到 DSH 的 Agent 预设形态），核心方法论与技能内容归功于 reverse-skill。
 
 第三方内容归属详见 [NOTICE.md](NOTICE.md)。
+
+## 社区
+
+本项目已获 [LINUX DO 社区](https://linux.do/) 认可与支持，欢迎到 LINUX DO 一起交流：
+
+- 社区：[LINUX DO](https://linux.do/)
+- 问题反馈：[GitHub Issues](https://github.com/roberts9012062/dsh-reverse-security/issues)
 
 ## 许可证
 
