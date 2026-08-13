@@ -1,0 +1,24 @@
+# 工具索引（每台机器不同，首次运行 refresh-tool-index 生成）
+skills/tool-index.md
+skills/tool-index.json
+
+# case 产物与报告（防未脱敏泄漏）
+work/
+reports/
+*-scope-*/
+master-route-*/
+
+# 签名密钥
+*.keystore
+skills/apk-reverse/debug.keystore
+
+# OS / IDE / 临时文件
+Thumbs.db
+.DS_Store
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.log
+*.tmp
+*.bak
